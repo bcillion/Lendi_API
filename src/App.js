@@ -17,5 +17,5 @@ class App extends Component {
     );
   }
 }
-//added comments
+
 export default App;
