@@ -11,6 +11,7 @@ const root = document.getElementById('root');
 
 //add comment here
 ///add more things here.....
+//<html>test</html>
 const render = () => ReactDOM.render(
 
     <Provider store={api_store}>
