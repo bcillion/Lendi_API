@@ -9,8 +9,6 @@ import { Provider } from 'react-redux';
 const api_store = createStore(api, {}, applyMiddleware(dataService));
 const root = document.getElementById('root');
 
-
-
 const render = () => ReactDOM.render(
 
     <Provider store={api_store}>
