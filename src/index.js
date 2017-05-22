@@ -12,6 +12,7 @@ const root = document.getElementById('root');
 //add comment here
 ///add more things here.....
 //<html>test</html>
+//this is the clean up file
 const render = () => ReactDOM.render(
 
     <Provider store={api_store}>
