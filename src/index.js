@@ -13,6 +13,7 @@ const root = document.getElementById('root');
 ///add more things here.....
 // i m the master
 //<html>test</html>
+//this is the clean up file
 
 const render = () => ReactDOM.render(
 
